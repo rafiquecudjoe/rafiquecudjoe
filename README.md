@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/67714964/117198657-1a0f0f80-ae0b-11eb-99d6-e65a7f2c406d.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rian Islam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafique Adam Cudjoe</h1>
 <h3 align="center">Curious about Web Application Development, and Security</h3>
 
 <p>
 {<br>
-  title: 'Jr. Web Developer', <br>
-  Expertise: 'JavaScript, ES6, React, Tailwind CSS, Bootstrap', <br>
-  Comfortable: ' Node, Express,MongoDB,Python,Flask',<br>
-Familiar:' React native, Chrome extension,SQL',<br>
-Tools:'Adobe Illustrator,Adobe Photoshop,Adobe XD,Kali Linux,Burp Suite,CLI ',<br>
+  title: ' Software Developer', <br>
+  Expertise: 'JavaScript, ES6, React,ReactNative Tailwind CSS, Bootstrap', <br>
+  Comfortable: ' Node, Express,MongoDB,<br>
+Familiar:' React native',<br>
+Tools:'',<br>
 Dev Tools:' Git, Github, Firebase,Heroku, etc',<br>
-  hobbies: [ 'Coding', 'Gaming', 'Cricket', 'Football'],<br>
+  hobbies: [ 'Coding', 'Cycling', 'Football'],<br>
   lovesOpenSource: true,<br>
   social: {<br>
-Github: ' https://github.com/RianIslam',<br>
-    linkedin: 'https://www.linkedin.com/in/rian-islam/',<br>
-Twitter:' https://twitter.com/rianislam0or_',<br>
+Github: ' https://github.com/rafiquecudjoe',<br>
+    linkedin: 'https://www.linkedin.com/in/rafiqueacudjoe/',<br>
+Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
   }<br>
 }<br>
 
