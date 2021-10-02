@@ -64,23 +64,23 @@ Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
 
 <p align="center">
     <a href="https://github.com/RianIslam/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiquecudjoe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rafique Cudjoe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiquecudjoe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/RianIslam/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RianIslam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RianIslam/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianIslam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rafiquecudjoe/github-readme-stats"><img alt="Rafique Cudjoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafiquecudjoe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!-- <a href="https://github.com/rafiquecudjoe/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiquecudjoe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/RianIslam/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RianIslam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rafiquecudjoe/github-readme-activity-graph"><img alt="Rafique Cudjoe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafiquecudjoe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -88,13 +88,13 @@ Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rian-islam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rianislam0or_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/rafiquecudjoe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/rafiqueacudjoe_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RianIslam">
+<a href="https://github.com/rafiquecudjoe/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rafiquecudjoe">
 </a>
-<a href="https://github.com/RianIslam?tab=followers"><img src="https://img.shields.io/github/followers/RianIslam?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rafiquecudjoe?tab=followers"><img src="https://img.shields.io/github/followers/rafiquecudjoe?label=Followers&style=social" alt="GitHub Badge"></a>
