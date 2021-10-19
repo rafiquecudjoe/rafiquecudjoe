@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/67714964/117198657-1a0f0f80-ae0b-11eb-99d6-e65a7f2c406d.png" height="175px"/></a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafique Adam Cudjoe</h1>
 <h3 align="center">Curious about Web Application Development, and Security</h3>
@@ -38,7 +38,7 @@ Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
 
 - ⚡ Fun fact **I enjoy cycling :D**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I Use:
 
 <p align="left"> 
     <!-- <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> -->
