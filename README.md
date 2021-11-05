@@ -15,8 +15,8 @@ Dev Tools:' Git, Github, Firebase,Heroku, etc',<br>
   lovesOpenSource: true,<br>
   social: {<br>
 Github: ' https://github.com/rafiquecudjoe',<br>
-    linkedin: 'https://www.linkedin.com/in/rafiqueacudjoe/',<br>
-Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
+    linkedin: 'https://www.linkedin.com/in/rafiquecudjoe/',<br>
+Twitter:' https://twitter.com/rafiqueacudjoe',<br>
   }<br>
 }<br>
 
@@ -28,13 +28,11 @@ Twitter:' https://twitter.com/rafiqueacudjoe_',<br>
 
 <!-- - 🔭 I’m currently working on **[ducati-superbike](https://github.com/RianIslam/ducati-superbike)** -->
 
-- 🌱 I’m currently learning **React Native.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://rafiqueadam.me)**
 
-- 📫 How to reach me  **[My Resume](https://drive.google.com/file/d/189QgfMAaquOR0qJ8rhu-LaeYazbTOnwu/view?usp=sharing)**
+- 📫 How to reach me  **[My Resume](https://drive.google.com/file/d/1YzfpItY2uI4Ef8BC4YnkxYj9IHCSfC7M/view?usp=sharing)**
 
 - ⚡ Fun fact **I enjoy cycling :D**
 
