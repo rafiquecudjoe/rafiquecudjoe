@@ -5,17 +5,17 @@
 
 <p>
 {<br>
-  title: ' Software Developer', <br>
-  Expertise: 'JavaScript, ES6, React,ReactNative Tailwind CSS, Bootstrap', <br>
-  Comfortable: ' Node, Express,MongoDB,<br>
+  title: ' Software Engineer', <br>
+  Expertise: 'JavaScript(ES6+),React,ReactNative,Tailwind CSS, Bootstrap', <br>
+  Comfortable: 'Node, Express,Nestjs,MongoDB,MySQL,Prisma',<br>
 Familiar:' React native',<br>
-Tools:'',<br>
+Tools:'BrowserStack,',<br>
 Dev Tools:' Git, Github, Firebase,Heroku, etc',<br>
-  hobbies: [ 'Coding', 'Cycling', 'Football'],<br>
+  hobbies: ['Coding', 'Cycling', 'Football'],<br>
   lovesOpenSource: true,<br>
   social: {<br>
-Github: ' https://github.com/rafiquecudjoe',<br>
-    linkedin: 'https://www.linkedin.com/in/rafiquecudjoe/',<br>
+Github:'https://github.com/rafiquecudjoe',<br>
+    linkedin:'https://www.linkedin.com/in/rafiquecudjoe/',<br>
 Twitter:' https://twitter.com/rafiqueacudjoe',<br>
   }<br>
 }<br>
