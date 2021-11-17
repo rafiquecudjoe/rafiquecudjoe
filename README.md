@@ -6,9 +6,9 @@
 <p>
 {<br>
   title: ' Software Engineer', <br>
-  Expertise: 'JavaScript(ES6+),React,ReactNative,Tailwind CSS, Bootstrap', <br>
-  Comfortable: 'Node, Express,Nestjs,MongoDB,MySQL,Prisma',<br>
-Familiar:' React native',<br>
+  Expertise: 'JavaScript(ES6+),React,Nodejs,Express,Tailwind CSS', <br>
+  Comfortable: 'Nestjs,MongoDB,MySQL,Prisma,Typescript,',<br>
+Familiar:' React native,GraphQL,GraphCMS',<br>
 Tools:'BrowserStack,',<br>
 Dev Tools:' Git, Github, Firebase,Heroku, etc',<br>
   hobbies: ['Coding', 'Cycling', 'Football'],<br>
