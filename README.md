@@ -26,7 +26,7 @@ Twitter:' https://twitter.com/rafiqueacudjoe',<br>
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[ducati-superbike](https://github.com/RianIslam/ducati-superbike)** -->
+- 🔭 I’m currently working on building RESTful API's with Node.js using NestJS and Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
